@@ -9,7 +9,6 @@
 },
 "source": {
 "git": "https://github.com/BrandKarma/CMPopTipView.git",
-"tag": "2.2.0"
 },
 "platforms": {
 "ios": "6.0"
